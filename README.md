@@ -57,19 +57,6 @@ The website must be designed to:
 - JavaScript
 - Responsive Web Design
 
----
-
-## Project Structure
-```text
-Alberto-Clocks/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-├── gallery/
-├── README.md
-```
 
 ---
 
@@ -96,7 +83,11 @@ This project helped me understand and apply:
 This project is a practical eProject that demonstrates how a business website can be created using front-end web technologies. It helped me strengthen my web development skills and gave me hands-on experience in building a professional and responsive website.
 
 ---
+## Thank You
+Thank you for visiting my project! Feel free to explore the website and share your feedback.
+
+## Contact
+Interested in working together? Visit my [GitHub profile](https://github.com/masfasamad).
 
 ## Developer
-Student Name  
-Institute Name
+Masfa Samad
